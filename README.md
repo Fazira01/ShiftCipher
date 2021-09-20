@@ -1,2 +1,2 @@
 # ShiftCipher
-![[url=https://imgbb.com/][img]https://i.ibb.co/SQs2q83/Screenshot.jpg[/img][/url]]
+![logo]https://i.postimg.cc/7ZKVQHX4/Screenshot.jpg
