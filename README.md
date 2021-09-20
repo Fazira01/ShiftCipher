@@ -1,2 +1,2 @@
 # ShiftCipher
-![https://raw.githubusercontent.com/Fazira01/ShiftCipher/main/Screenshot.JPG]
+![logo]https://raw.githubusercontent.com/Fazira01/ShiftCipher/main/Screenshot.JPG
